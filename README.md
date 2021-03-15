@@ -9,7 +9,8 @@
 VMware VS Docker Container   
 - Docker가 좀 더 시간을 절약시켜 준다. 또한 memory의 사용량이 vmware에 비해 적다.
 
-![1](C:\Users\jiyoung\Downloads\1.png)
+<img src="C:/Users/jiyoung/Downloads/1.png" width="500" height="300">
+
  
 	Monolith의 단점은 한꺼번에 해야 한다는 점(시간 오래 걸림)
 	Microservices는 분산되어 있기 때문에 시간도 줄어들고, 각각 하나씩 맡기 때문에 인적자원 또한 여유 있다.
